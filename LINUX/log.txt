@@ -1,0 +1,7 @@
+10.10.10.110 - - [01/Jan/1970:00:09:00 +0000] "GET /asptest.asp HTTP/1.1" 200 -
+10.10.10.110 - - [01/Jan/1970:00:10:03 +0000] "POST /goform/formAlpuc HTTP/1.1" 404 -
+10.10.10.110 - - [01/Jan/1970:00:10:10 +0000] "POST /goform/formAlpuc HTTP/1.1" 404 -
+10.10.10.110 - - [01/Jan/1970:00:10:13 +0000] "POST /goform/formAlpuc HTTP/1.1" 404 -
+10.10.10.110 - - [01/Jan/1970:00:10:15 +0000] "POST /goform/formAlpuc HTTP/1.1" 404 -
+10.10.10.110 - - [01/Jan/1970:00:10:17 +0000] "POST /goform/formAlpuc HTTP/1.1" 404 -
+10.10.10.110 - - [01/Jan/1970:00:11:33 +0000] "POST /goform/formAlpuc HTTP/1.1" 404 -
